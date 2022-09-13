@@ -1,0 +1,35 @@
+div {
+  color: rgb(0, 21, 255);
+}
+
+a {
+  color: red;
+}
+
+div p {
+  color: black;
+}
+
+.blue {
+  color: blue;
+}
+
+h2.title {
+  color: brown;
+}
+
+.tunel p {
+  color: blueviolet;
+}
+
+h3.review {
+  color: firebrick;
+}
+
+.navigation ol {
+  color: chartreuse;
+}
+
+.title ~ p {
+  color: green;
+}
